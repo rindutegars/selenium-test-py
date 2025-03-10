@@ -1,1 +1,1 @@
-<img src="reports/test_login.png" alt="Hasil HTML Test Runner" width="500">
+<img src="reports/test_login.jpg" alt="Hasil HTML Test Runner" width="500">
