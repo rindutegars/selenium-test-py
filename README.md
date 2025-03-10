@@ -1,1 +1,1 @@
-![Hasil HTML Test Runner](selenium-test-python/reports/test_login.PNG)
+<img src="reports/test_login.png" alt="Hasil HTML Test Runner" width="500">
