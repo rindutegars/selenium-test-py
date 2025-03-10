@@ -2,4 +2,4 @@
 <img src="reports/test_login.jpg" alt="Hasil HTML Test Runner">
 <br>
 <p>Hasil dari Visualisasi Allure pada Automation Testing Login</p>
-<img src="allure-report/test_login_allure.jpg" alt="Hasil Allure">
+<img src="reports/test_login_allure.jpg" alt="Hasil Allure">
